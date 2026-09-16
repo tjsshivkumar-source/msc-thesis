@@ -20,3 +20,6 @@ outputs/**/*.png
 outputs/patent_baseline/**/*.png
 outputs/patent_baseline_lowres/**/*.png
 outputs/test.glb
+*.png
+
+*.png
