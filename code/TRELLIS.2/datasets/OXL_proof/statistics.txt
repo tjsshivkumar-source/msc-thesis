@@ -1,0 +1,14 @@
+Statistics:
+  - Number of assets: 168307
+  - Number of assets downloaded: 84
+  - Number of assets with render conditions: 84
+  - Number of assets with mesh dumped: 84
+  - Number of assets with PBR dumped: 75
+  - Number of assets with dual grid:
+    - 512: 84
+  - Number of assets with PBR voxelization:
+    - 512: 75
+  - Number of assets with sparse structure latents:
+    - ss_enc_conv3d_16l8_fp16_64: 84
+  - Number of assets with shape latents:
+    - shape_enc_next_dc_f16c32_fp16_512: 84
